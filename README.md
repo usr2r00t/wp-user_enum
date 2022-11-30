@@ -1,8 +1,9 @@
 # A user enumeration script for a WordPress website.
-Work in progress ...  
-
-# wp-user-enumeration-script
 Just a very simple WordPress users enumeration script.
+ 
+
+# wp-user-enum-script
+Work in progress ... I'll upload the suite soon !
 
 ## wpjson.py  
 Sample output below:  

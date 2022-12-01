@@ -9,7 +9,7 @@ Just a very simple WordPress users enumeration script.
 ## wpjson.py  
 Sample output below:  
 ```
-$ python wpjson.py https://example.com
+$ python wpjson.py http://site.com/wordpress/
 {*} Found 5 users:
 {>} User ID: 28, Name: Realistic User, Username: foo
 {>} User ID: 17, Name: Pessimistic User, Username: bar

@@ -5,9 +5,10 @@ Just a very simple WordPress users enumeration script.
 # wp-user-enum-script
   Work in progress ... <br/>
   More scripts coming soon ! <br/>
+  <strong>For Educational Purpose Only</strong> 🙏🏽
   
-## wpjson.py  
-Sample output below:  
+## wpjson.py
+<strong>Sample output below:</strong>
 ```
 $ python wpjson.py http://site.com/wordpress/
 {*} Found 5 users:

@@ -3,12 +3,13 @@ Just a very simple WordPress users enumeration script.
  
 
 # wp-user-enum-script
-Work in progress ... I'll upload the suite soon !
-
+  Work in progress ... <br/>
+  More scripts coming soon ! <br/>
+  
 ## wpjson.py  
 Sample output below:  
 ```
-$ python wpjson.py https://redacted.co.uk
+$ python wpjson.py https://example.com
 {*} Found 5 users:
 {>} User ID: 28, Name: Realistic User, Username: foo
 {>} User ID: 17, Name: Pessimistic User, Username: bar

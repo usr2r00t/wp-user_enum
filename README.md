@@ -1,6 +1,5 @@
-# A user enumeration script for a WordPress website.
-Just a very simple WordPress users enumeration script.
- 
+# A user enumeration script for a WordPress website
+Just a very simple WordPress users enumeration script
 
 # wp-user-enum-script
   Work in progress ... <br/>
